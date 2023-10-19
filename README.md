@@ -1,6 +1,6 @@
 # 100-web-vulnerabilities-names- categorized into various types:
 
-Injection Vulnerabilities:
+#Injection Vulnerabilities#
 
 1. SQL Injection (SQLi)
 2. Cross-Site Scripting (XSS)
