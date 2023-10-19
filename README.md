@@ -121,5 +121,5 @@
 100. Day-Zero Exploits
 
 
-cerdits : Wesley Thijs
+credits : Wesley Thijs
 
