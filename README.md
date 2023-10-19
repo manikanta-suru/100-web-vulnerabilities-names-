@@ -99,9 +99,9 @@
 83. Unauthorized Access to Smart Homes
 84. IoT Data Privacy Issues
 # Authentication Bypass:
-86. Insecure "Remember Me" Functionality
-87. CAPTCHA Bypass
-Server-Side Request Forgery (SSRF):
+85. Insecure "Remember Me" Functionality
+86. CAPTCHA Bypass
+# Server-Side Request Forgery (SSRF):
 87. Blind SSRF
 88. Time-Based Blind SSRF
 # Content Spoofing:
@@ -119,3 +119,4 @@ Server-Side Request Forgery (SSRF):
 98. Unknown Vulnerabilities
 99. Unpatched Vulnerabilities
 100. Day-Zero Exploits
+
