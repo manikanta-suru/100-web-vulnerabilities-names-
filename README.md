@@ -98,3 +98,24 @@
 # Web of Things (WoT) Vulnerabilities:
 83. Unauthorized Access to Smart Homes
 84. IoT Data Privacy Issues
+# Authentication Bypass:
+86. Insecure "Remember Me" Functionality
+87. CAPTCHA Bypass
+Server-Side Request Forgery (SSRF):
+87. Blind SSRF
+88. Time-Based Blind SSRF
+# Content Spoofing:
+89. MIME Sniffing
+90. X-Content-Type-Options Bypass
+91. Content Security Policy (CSP) Bypass
+# Business Logic Flaws:
+92. Inconsistent Validation
+93. Race Conditions
+94. Order Processing Vulnerabilities
+95. Price Manipulation
+96. Account Enumeration
+97. User-Based Flaws
+# Zero-Day Vulnerabilities:
+98. Unknown Vulnerabilities
+99. Unpatched Vulnerabilities
+100. Day-Zero Exploits
