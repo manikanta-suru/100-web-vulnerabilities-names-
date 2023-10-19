@@ -1,7 +1,5 @@
 # 100-web-vulnerabilities-names- categorized into various types
-
-#Injection Vulnerabilities
-
+# Injection Vulnerabilities
 1. SQL Injection (SQLi)
 2. Cross-Site Scripting (XSS)
 3. Cross-Site Request Forgery (CSRF)
@@ -16,7 +14,7 @@
 12. Blind SQL Injection
 13. Server-Side Template Injection (SSTI)
 
-#Broken Authentication and Session Management:
+# Broken Authentication and Session Management:
 
 14. Session Fixation
 15. Brute Force Attack
