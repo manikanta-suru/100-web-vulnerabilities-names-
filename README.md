@@ -1,6 +1,6 @@
-# 100-web-vulnerabilities-names- categorized into various types:
+# 100-web-vulnerabilities-names- categorized into various types
 
-#Injection Vulnerabilities#
+#Injection Vulnerabilities
 
 1. SQL Injection (SQLi)
 2. Cross-Site Scripting (XSS)
@@ -16,7 +16,7 @@
 12. Blind SQL Injection
 13. Server-Side Template Injection (SSTI)
 
-Broken Authentication and Session Management:
+#Broken Authentication and Session Management:
 
 14. Session Fixation
 15. Brute Force Attack
@@ -27,7 +27,7 @@ Broken Authentication and Session Management:
 20. Cookie Theft
 21. Credential Reuse
 
-Sensitive Data Exposure:
+# Sensitive Data Exposure:
 
 22. Inadequate Encryption
 23. Insecure Direct Object References (IDOR)
@@ -36,7 +36,7 @@ Sensitive Data Exposure:
 26. Missing Security Headers
 27. Insecure File Handling
 
-Security Misconfiguration:
+# Security Misconfiguration:
 
 28. Default Passwords
 29. Directory Listing
@@ -48,13 +48,13 @@ Security Misconfiguration:
 35. Misconfigured CORS
 36. HTTP Security Headers Misconfiguration
 
-XML-Related Vulnerabilities:
+# XML-Related Vulnerabilities:
 
 37. XML External Entity (XXE) Injection
 38. XML Entity Expansion (XEE)
 39. XML Bomb
 
-Broken Access Control:
+# Broken Access Control:
 
 40. Inadequate Authorization
 41. Privilege Escalation
@@ -62,26 +62,26 @@ Broken Access Control:
 43. Forceful Browsing
 44. Missing Function-Level Access Control
 
-Insecure Deserialization:
+# Insecure Deserialization:
 
 45. Remote Code Execution via Deserialization
 46. Data Tampering
 47. Object Injection
 
-API Security Issues:
+# API Security Issues:
 48. Insecure API Endpoints
 49. API Key Exposure
 50. Lack of Rate Limiting
 51. Inadequate Input Validation
 
-Insecure Communication:
+# Insecure Communication:
 
 52. Man-in-the-Middle (MITM) Attack
 53. Insufficient Transport Layer Security
 54. Insecure SSL/TLS Configuration
 55. Insecure Communication Protocols
 
-Client-Side Vulnerabilities:
+# Client-Side Vulnerabilities:
 
 56. DOM-based XSS
 57. Insecure Cross-Origin Communication
@@ -89,7 +89,7 @@ Client-Side Vulnerabilities:
 59. Clickjacking
 60. HTML5 Security Issues
 
-Denial of Service (DoS):
+# Denial of Service (DoS):
 
 61. Distributed Denial of Service (DDoS)
 62. Application Layer DoS
@@ -97,7 +97,7 @@ Denial of Service (DoS):
 64. Slowloris Attack
 65. XML Denial of Service
 
-Other Web Vulnerabilities:
+# Other Web Vulnerabilities:
 
 66. Server-Side Request Forgery (SSRF)
 67. HTTP Parameter Pollution (HPP)
@@ -110,20 +110,20 @@ Other Web Vulnerabilities:
 74. Business Logic Vulnerabilities
 75. API Abuse
 
-Mobile Web Vulnerabilities:
+# Mobile Web Vulnerabilities:
 
 76. Insecure Data Storage on Mobile Devices
 77. Insecure Data Transmission on Mobile Devices
 78. Insecure Mobile API Endpoints
 79. Mobile App Reverse Engineering
 
-IoT Web Vulnerabilities:
+# IoT Web Vulnerabilities:
 
 80. Insecure IoT Device Management
 81. Weak Authentication on IoT Devices
 82. IoT Device Vulnerabilities
 
-Web of Things (WoT) Vulnerabilities:
+# Web of Things (WoT) Vulnerabilities:
 
 83. Unauthorized Access to Smart Homes
 84. IoT Data Privacy Issues
